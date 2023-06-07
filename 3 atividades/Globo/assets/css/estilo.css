@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+
+  h1 {
+    margin: 0;
+    font-size: 24px;
+  }
+
+  main {
+    margin: 20px;
+  }
+
+  article {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+  }
+
+  h2 {
+    font-size: 20px;
+    margin: 0;
+    margin-bottom: 10px;
+  }
+
+  p {
+    margin: 0;
+    color: #666;
+  }
+
+  footer {
+    background-color: #f5f5f5;
+    padding: 10px;
+    text-align: center;
+    color: #666;
+  }
+
+  #not05{
+    position: relative;
+    width: 530px;
+  }
+
+  #not01{
+    position: relative;
+    width:300px;
+  }
+
+  #not02{
+    position: relative;
+    width: 300px;
+  }
+
+  #not03{
+    position: relative;
+    width: 300px;
+  }
+
+  #not04{
+    position: relative;
+    width: 300px;
+  }
